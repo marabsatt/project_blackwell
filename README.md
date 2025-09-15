@@ -69,7 +69,7 @@ Optional for enhancements:
 ## Installation
 
 ```bash
-git clone https://github.com/marabsatt/blackwell.git
+git clone https://github.com/marabsatt/project_blackwell.git
 cd blackwell
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
